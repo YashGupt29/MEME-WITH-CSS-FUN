@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.meme{
+    border: 5px solid white;
+    width: 100%;
+}
+.poster{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 300;
+    
+
+}
+.main3{
+    color: white;
+    margin-left:70%;
+}
